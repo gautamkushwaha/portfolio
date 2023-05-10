@@ -29,7 +29,7 @@ export default function Technology() {
          <img src="nodejs.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5  '/>
          </div>
          <div>
-         <img src="expressjs.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5  '/>
+         <img src="Expressjs.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5  '/>
          </div>
          <div>
          <img src="mongodb.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5 '/>
