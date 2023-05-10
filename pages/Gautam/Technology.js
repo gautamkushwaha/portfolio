@@ -8,52 +8,52 @@ export default function Technology() {
         </div>
       <div className='grid  grid-cols-3 md:grid-cols-5 gap-5 mx-[50px] md:mx-[200px]'>
          <div>
-            <img src="html.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900  m-5 p-5' />
+            <img src="html.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900  m-5 p-5' />
          </div>
          <div>
-         <img src="css.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 m-5 p-5'/>
+         <img src="css.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5'/>
          </div>
          <div>
-         <img src="js.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 m-5 p-5'/>
+         <img src="js.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5'/>
          </div>
          <div>
-         <img src="boostrap.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 m-5 p-5'/>
+         <img src="boostrap.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5'/>
          </div>
          <div>
-         <img src="react.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 m-5 p-5'/>
+         <img src="react.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5'/>
          </div>
          <div>
-         <img src="nextjs.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 m-5 p-5  '/>
+         <img src="nextjs.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5  '/>
          </div>
          <div>
-         <img src="expressjs.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 m-5 p-5  '/>
+         <img src="expressjs.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5  '/>
          </div>
          <div>
-         <img src="mongodb.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 m-5 p-5 '/>
+         <img src="mongodb.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5 '/>
          </div>
          <div>
-         <img src="mysql.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 m-5 p-5  '/>
+         <img src="mysql.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5  '/>
          </div>
          <div>
-         <img src="c.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 m-5 p-5'/>
+         <img src="c.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5'/>
          </div>
          <div>
-         <img src="cplus.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 m-5 p-5'/>
+         <img src="cplus.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5'/>
          </div>
          <div>
-         <img src="java.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 m-5 p-5'/>
+         <img src="java.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5'/>
          </div>
          <div>
-         <img src="python.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 m-5 p-5'/>
+         <img src="python.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5'/>
          </div>
          <div>
-         <img src="git.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 m-5 p-5'/>
+         <img src="git.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900 m-5 p-5'/>
          </div>
          <div>
-         <img src="wordpress.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 bg-white m-5 p-5'/>
+         <img src="wordpress.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900    m-5 p-5'/>
          </div>
          <div>
-         <img src="shemrush.png" className='h-[150px] w-[150px] bg-gray-800 hover:bg-gray-900 bg-white m-5 p-5'/>
+         <img src="shemrush.png" className='h-[150px] w-[150px]  bg-white hover:bg-gray-900    m-5 p-5'/>
          </div>
       </div>
     </div>

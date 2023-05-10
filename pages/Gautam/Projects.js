@@ -9,9 +9,53 @@ import {
     FaTwitterSquare,
 } from "react-icons/fa";
 import { BsFillForwardFill } from 'react-icons/bs';
+
+
+// create a hover button using tailwind css 
+
+const hoverButton = () => {
+// create a hover button using taiwind css
+
+    return (
+        <div>
+            <div class="relative inline-block text-left">
+                <div>
+
+                    <button type="button" class="inline-flex justify-center w-full rounded-md border border-gray-300 shadow-sm px-4 py-2 bg-[#ff0000] text-base font-medium text-white hover:bg-[#ff0000] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 sm:text-sm">
+                        Options
+                        {/* <!-- Heroicon name: solid/chevron-do ̰wn --> */}
+                        <svg class="-mr-1 ml-2 h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="#ff0000" aria-hidden="true">
+                            <path fill-rule="evenodd" d="M10 14l5-5m0 0l-5-5m5 5H5" />
+                        </svg>
+                    </button>
+                </div>
+
+                {/* <!--
+                    Dropdown panel, show/hide based on dropdown state.
+
+                    Entering: "transition ease-out duration-100"
+                        From: "transform opacity-0 scale-95"
+                        To: "transform opacity-100 scale-100"
+                    Leaving: "transition ease-in duration-75"
+                        From: "transform opacity-100 scale-100"
+                        To: "transform opacity-0 scale-95"
+                --> */}
+                <div class="hidden origin-top-right absolute right-0 mt-2 w-56 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5">
+
+
+                        </div>
+                    </div>
+                </div>
+    )
+    
+}
+
+
+
 export default function Projects() {
     return (
         <div className='w-[100vw] my-[150px]' id="projects">
+
             <div className=" w-[100%]  flex-col flex md:flex-row flex-2 items-center justify-center">
                 <div className=" w-[90%] md:w-[60%]  grid grid-cols-2 gap-[5%] justify-center items-center">
                     <div className=" w-[100%]  flex flex-col justify-center items-center py-5 m-auto">
