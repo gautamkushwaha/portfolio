@@ -16,6 +16,7 @@ export default function Navbar() {
             <Link className='mx-3' href="/"><div>Home</div></Link>
             <Link className='mx-3' href="#projects"><div>Project</div></Link>
             <Link className='mx-3' href="#about"><div>About</div></Link>
+            <Link className='mx-3' href="#technology"><div>Skills</div></Link>
             <Link className='mx-3' href="#contact"><div>Contact</div></Link>
             {/* <Lin href="/"> <h className="text-blue-500 hover:text-blue-700">Go back home</h></Lin> */}
           </ul>

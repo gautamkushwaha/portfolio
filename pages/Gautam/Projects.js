@@ -162,6 +162,9 @@ export default function Projects() {
                             </div>
                         </div>
                     </div>
+                    <div className="m-auto">
+                            <Link className=' bg-indigo-500 hover:bg-blue-700 rounded  p-3 my-auto text-bold text-white' href="#contact"> ExploreMore</Link>
+                        </div>
                     <div className="  bg-slate-800 hover:bg-slate-900 col-span-2 w-[100%] shadow-sky-50 flex-col flex md:flex-row justify-around  p-2 md:p-5 mb-[100px]">
                         <div className="md:w-[50%] w-[100%] flex-col justify-center ">
                             <h1 className="text-white text-4xl font-serif">Lets Work Together on Your Next Project</h1>
@@ -177,6 +180,7 @@ export default function Projects() {
                 </div>
 
             </div>
+           
         </div>
 
     );

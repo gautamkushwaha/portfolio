@@ -39,7 +39,7 @@ export default function Home() {
           </h2>
           <p className="text-white p-2 mb-3" >
             {" "}
-            I'm a skilled programmer with experience in front-end and back-end development. I'm passionate about programming and always eager to learn more. With strong expertise and a proven track record of delivering results, I'm available to join your team or provide teaching services. Let's work together to achieve your programming goals!{" "}
+            I'm a skilled programmer with experience in front-end and back-end development. I'm passionate about programming and always eager to learn more. With strong expertise and a proven track record of delivering results, I'm available to join do your project and join your team to do any frontend projects . Let's work together to achieve your programming goals!{" "}
           </p>
           <Link className='bg-indigo-500 hover:bg-blue-700 text-black p-2 m-2 rounded' href="https://docs.google.com/document/d/1OcWXc0hmOkncq8Usz51p_25E9km7vNv8QlIZvaN59Ic/edit#heading=h.5rf9wr4r3no2">Resume</Link>
         </div>

@@ -20,9 +20,10 @@ export default function Footer() {
                     <div className="mx-100 mt-[50px]">
                         <ul className="flex text-white">
                             <Link className="m-3" href="/">Home</Link>
-                            <Link className="m-3" href="Gautam/Projects"> Project</Link>
-                            <Link className="m-3" href="Gautam/About">About</Link>
-                            <Link className='m-3' href="/Gautam/Contact">Contact</Link>
+                            <Link className="m-3" href="#projects"> Project</Link>
+                            <Link className="m-3" href="#about">About</Link>
+                            <Link className='m-3' href="#contact">Contact</Link>
+                            <Link className='m-3' href="#technology">Skills</Link>
                         </ul>
                     </div>
                 </div>

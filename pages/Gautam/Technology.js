@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Technology() {
   return (
-    <div className='w-[100vw] my-[100px]'>
+    <div className='w-[100vw] my-[100px] ' id="technology">
         <div>
             <h1 className='text-white text-6xl text-center m-auto font-serif text-bold'>The Technoly that I use</h1>
         </div>
